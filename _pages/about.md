@@ -9,4 +9,4 @@ redirect_from:
 
 I am a PhD candidate in Computer Science at Newcastle University. Before I came to Newcastle University in September 2023, I obtained my Bachelor's degree in Mathematics and Applied Mathematics from Hunan Normal University. During my undergraduate studies, I was selected into the Shicheng Honor Class (now Shicheng Hornor College, 世承书院) and received systematic research skills training under the supervision of Prof. Lin Xiao.
 
-At present, my research interests include brain, epilepsy and neural networks.
+At present, my research interests include brain and neural networks.
