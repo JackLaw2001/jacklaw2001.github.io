@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "hornor"
+title: "Hornor&Awards"
 permalink: /hornor/
 author_profile: true
 redirect_from:
