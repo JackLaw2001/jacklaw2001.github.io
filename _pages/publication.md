@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "hornor"
-permalink: /hornor/
+title: "Publication"
+permalink: /publication/
 author_profile: true
 redirect_from:
-  - /hornor
+  - /publication
 ---
 
 {% include base_path %}
