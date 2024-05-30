@@ -22,7 +22,7 @@ repository               : "jacklaw2001/jacklaw2001.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jiajie's Homepage"
+  name             : "Jiajie Luo"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Computer Science"
   location         : "Newcastle upon Tyne, UK"
@@ -71,7 +71,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
+  zhihu            : https://www.zhihu.com/people/stlcc-46
 
 
 # Site Settings
